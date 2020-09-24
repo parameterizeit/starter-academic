@@ -5,7 +5,7 @@ name = "dice"
 light = true
 
 # Primary
-primary = "#8ca9e2"  # links
+primary = "#6d92da"  # links
 
 # Menu
 menu_primary = "#ccddaa"  # top menu background color

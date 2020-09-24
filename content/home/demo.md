@@ -44,13 +44,17 @@ subtitle = ""
 
 [advanced]
  # Custom CSS. 
- css_style = "font-size: 220%; line-height: 115%; text-align: center; background-color: #ffffffbf;"
+ css_style = "font-size: 220%; line-height: 115%; text-align: center;"
  
  # CSS class.
  css_class = ""
 +++
-We are a research team focused on illuminating the mechanisms that maintain biodiversity in nature and using our understanding for forecast how ecological systems will respond to our changing world. Our approach is broad, bringing together field & lab experiments, natural history, statistics, math, and code.
-<br/><br/>
-In January 2021, we'll be joining the [Department of Plant & Microbial Biology](https://cals.ncsu.edu/plant-and-microbial-biology/) at [North Carolina State University](https://www.ncsu.edu/). During the field season, you may also find us crouched among the wildflowers at the [Rocky Mountain Biological Lab](https://www.rmbl.org/) or knee-deep in a peat bog at the [University of Michigan Biological Station](https://lsa.umich.edu/umbs).
-<br/><br/> 
-Now recruiting! See our open positions [here](/join/).
+<div style="background-color:#ffffffCC;">
+<br/>
+<p>We are a research team focused on illuminating the mechanisms that maintain biodiversity in nature and using our understanding for forecast how ecological systems will respond to our changing world. Our approach is broad, bringing together field & lab experiments, natural history, statistics, math, and code.</p>
+<br/>
+<p>In January 2021, we'll be joining the <a href="https://cals.ncsu.edu/plant-and-microbial-biology/">Department of Plant & Microbial Biology</a> at <a href="https://www.ncsu.edu/">North Carolina State University</a>. During the field season, you may also find us crouched among the wildflowers at the <a href="https://www.rmbl.org/">Rocky Mountain Biological Lab</a> or knee-deep in a peat bog at the <a href="https://lsa.umich.edu/umbs">University of Michigan Biological Station</a>.</p>
+<br/>
+<p>Now recruiting! See our open positions <a href="/join/">here</a>.</p>
+<br/>
+</div>
