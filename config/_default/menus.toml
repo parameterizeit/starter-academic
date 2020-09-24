@@ -9,24 +9,54 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Research"
+  url = "#research"
+  identifier = "research-project"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Predicting food web dynamics & diversity"
+  url = "project/dynamics-of-food-webs/"
+  parent = "research-project"
+  weight = 21
+
+[[main]]
+  name = "Ecological forecasting under climate change"
+  url = "project/forecasting-populations/"
+  parent = "research-project"
+  weight = 22
+
+[[main]]
+  name = "Pattern & process of spatial biodiversity"
+  url = "project/spatial-biodiversity/"
+  parent = "research-project"
+  weight = 23
+
+[[main]]
+  name = "Global-scale ecology"
+  url = "project/global-ecology/"
+  parent = "research-project"
+  weight = 24
+
+[[main]]
+  name = "People"
+  url = "#people"
   weight = 30
 
 [[main]]
   name = "Publications"
-  url = "#featured"
+  url = "#publications"
   weight = 40
 
 [[main]]
   name = "Contact"
   url = "#contact"
   weight = 60
+
+[[main]]
+  name = "Join us"
+  url = "join/"
+  weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

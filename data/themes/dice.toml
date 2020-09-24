@@ -1,0 +1,18 @@
+# Theme metadata
+name = "dice"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#8ca9e2"  # links
+
+# Menu
+menu_primary = "#ccddaa"  # top menu background color
+menu_text = "#2b2b4c"  # menu item text color
+menu_text_active = "#8ca9e2"  # menu text color when scrolled to that section
+menu_title = "#2b2b2b"  # main title text color
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"  # home page background colors
+home_section_even = "rgb(247, 247, 247)"
