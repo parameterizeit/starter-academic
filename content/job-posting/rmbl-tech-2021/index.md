@@ -7,7 +7,7 @@ authors: []
 tags: []
 categories: []
 date: 2020-09-21T00:00:04-04:00
-draft: true
+draft: false
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -45,3 +45,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+More information about this position will be posted in December, with an application deadline likely in mid/late January.
