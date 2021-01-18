@@ -40,11 +40,11 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["250px", "20px", "250px", "20px"]
+  padding = ["150px", "75px", "150px", "75px"]
 
 [advanced]
  # Custom CSS. 
- css_style = "font-size: 150%; line-height: 120%; text-align: center;"
+ css_style = "font-size: 120%; line-height: 100%; text-align: center;"
  
  # CSS class.
  css_class = ""
@@ -53,7 +53,7 @@ subtitle = ""
 <br/>
 <p>We are a research team focused on illuminating the mechanisms that maintain biodiversity in nature and using our understanding to forecast how ecological systems will respond to our changing world. Our approach is broad, bringing together field & lab experiments, natural history, statistics, math, and code.</p>
 <br/>
-<p>At the end of this year, we'll be joining the <a href="https://cals.ncsu.edu/plant-and-microbial-biology/">Department of Plant & Microbial Biology</a> at <a href="https://www.ncsu.edu/">North Carolina State University</a>. During the field season, you may also find us crouched among the wildflowers at the <a href="https://www.rmbl.org/">Rocky Mountain Biological Lab</a> or knee-deep in a peat bog at the <a href="https://lsa.umich.edu/umbs">University of Michigan Biological Station</a>.</p>
+<p>We are based in the <a href="https://cals.ncsu.edu/plant-and-microbial-biology/">Department of Plant & Microbial Biology</a> at <a href="https://www.ncsu.edu/">North Carolina State University</a>. During the field season, you may also find us crouched among the wildflowers at the <a href="https://www.rmbl.org/">Rocky Mountain Biological Lab</a> or knee-deep in a peat bog at the <a href="https://lsa.umich.edu/umbs">University of Michigan Biological Station</a>.</p>
 <br/>
 <p>Now recruiting! See our open positions <a href="/join/">here</a>.</p>
 <br/>

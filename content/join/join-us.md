@@ -60,14 +60,16 @@ Applying to graduate programs is *very* different from applying to undergraduate
 
 Prospective graduate students should [email me](#contact) well in advance of the fall application deadline with:
 
-1. a short paragraph outlining your motivation and preparedness for pursuing graduate study
-2. a short paragraph describing your specific interests in our group's research (plus any other groups at NCSU, if considering co-advisers)
-3. your current CV (see advice [here](https://wordvice.com/how-to-write-a-flawless-cv-curriculum-vitae-for-graduate-school/) and [here](https://www.prepscholar.com/gre/blog/how-to-write-a-cv-for-graduate-school/))
-4. the names & email addresses for **two** professional references who have agreed to write you [a strong letter of recommendation](https://graduateschoolsite.com/letter-of-recommendation-for-graduate-school/)
+1. A short paragraph outlining your motivation and preparedness for pursuing graduate study. What do you want to get out of grad school? How has your previous study/experience prepared you?[^1]
+2. A short paragraph describing your specific interests in our group's research and what questions you would want to answer with your research. If considering co-advising, please say so and identify the other lab(s) at NCSU that you are considering.
+3. Your current CV (see advice [here](https://wordvice.com/how-to-write-a-flawless-cv-curriculum-vitae-for-graduate-school/) and [here](https://www.prepscholar.com/gre/blog/how-to-write-a-cv-for-graduate-school/)).
+4. (Optional at thi stage) The names & email addresses for **two** professional references who have agreed to write you [a strong letter of recommendation](https://graduateschoolsite.com/letter-of-recommendation-for-graduate-school/).
 
 Please do not send GRE scores. I do not consider them when evaluating applicants, nor do the primary programs through which I accept students.
 
 We also welcome **visiting graduate students** who want to work on a project with us. Typically this will require you to bring your own funding, which may be available through your home lab/institution or national science funding agency. Please follow the same instructions as above for prospective graduate students and include some information on the specific project you would like to pursue and the funding you have or are seeking. One of your references should be your current adviser.
+
+[^1]: Changing fields? A record ecology-focused study and research experience can help, but isn't necessary. Some great ecologists started off in totally different disciplines. Just be sure to explain why you want to become an ecologist, and think creatively about how the skills you've gained in your discipline can transfer to ecology.
 
 ### Postdocs {#postdocs}
 
