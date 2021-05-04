@@ -46,30 +46,25 @@ subtitle = ""
  css_class = ""
 +++
 
-We work at the interface of experiments, mathematical models, and theory to answer questions about the maintenance of species diversity, ecological forecasting, and population dynamics, mostly in plant and protozoan study systems. Our work encompasses a broad range of study systems and methodological approaches, all of which is anchored in the common goal of understanding the biodiversity in changing environments. If these topics inspire you too, we hope you'll consider joining us. We especially welcome applicants from marginalized and excluded groups as we work to transform ecology into a more equitable and inclusive science.
+We work at the interface of experiments, mathematical models, and theory to answer questions about the maintenance of species diversity, ecological forecasting, and population dynamics. Our work encompasses a broad range of study systems and methodological approaches, all anchored by the common goal of understanding the biodiversity in changing environments. If these topics inspire you too, we hope you'll consider joining us. We especially welcome applicants from marginalized and excluded groups as we work to transform ecology into a more equitable and inclusive science.
 
 ### Graduate students {#gradstudents}
 
-Our Department offers two programs for graduate students (Masters & Ph.D.): [Plant Biology](https://cals.ncsu.edu/plant-and-microbial-biology/students/graduate/pb-grad-homepage/) and [Microbiology](https://cals.ncsu.edu/plant-and-microbial-biology/students/graduate/mb-grad-programs/). If neither of these fits, we're fortunate to be able to accept students through [other programs](https://grad.ncsu.edu/programs/) on campus as well.
+Prospective graduate students who want to do ecological research on questions related to biodiversity in changing environments should [email Dr. Petry](#contact) in the late summer or early fall with the following pieces of information:
 
-Applying to graduate programs is *very* different from applying to undergraduate programs. These differences are especially strong in ecology & evolutionary biology in the USA, where student usually apply to a particular adviser's lab (vs. general admission into a school/degree program). Understanding the process is key component of a successful application, and the following resources offer a good starting place:
+1. A short paragraph describing the _research concepts & questions_ that you want to pursue in your graduate research. Try to be as specific as you can, though of course no one is expected to have a fully-fledged research proposal at this stage. Be sure to specifically address why your interests are a good fit for our lab. If your research ideas would best be supported via a co-advising arrangement, please say so and identify the other lab(s) at NCSU that you are considering.
+2. A short paragraph outlining your motivation and preparedness for pursuing graduate study. How will a graduate degree help you achieve your career goals? What previous study/experiences have prepared you for grad school?[^1]
+3. Your current CV (see advice [here](https://wordvice.com/how-to-write-a-flawless-cv-curriculum-vitae-for-graduate-school/) and [here](https://www.prepscholar.com/gre/blog/how-to-write-a-cv-for-graduate-school/)).
+
+Our Department offers two programs for graduate students, each of which has a Masters and Ph.D. track: [Plant Biology](https://cals.ncsu.edu/plant-and-microbial-biology/students/graduate/pb-grad-homepage/) and [Microbiology](https://cals.ncsu.edu/plant-and-microbial-biology/students/graduate/mb-grad-programs/). Both have Winter application deadlines for admission in the coming Fall. Neither program requires GRE scores, and I do not use them when evaluating prospective students. Students may also be admitted through [any other graduate program at NCSU](https://grad.ncsu.edu/programs/), although there may be additional logistical hurdles.
+
+Applying to graduate programs is *very* different from applying to undergraduate programs. These differences are especially strong in ecology & evolutionary biology in the USA, where student usually apply to a particular adviser's lab (vs. general admission into a school/degree program). This usually means that prospective students need to contact potential advisers prior to formally applying to discuss research interest overlap and ensure that the adviser is able to accept students. Understanding the process is key component of a successful application, and the following resources offer a good starting place:
 
 - [How-to guide](https://www.mordecailab.com/news-marquee/applying-for-grad-school) compiled by Erin Mordecai's lab.
-- [A high-level overview of the application process](https://ssecommunityblog.org/applying-to-a-phd-program-in-the-us-as-an-international-student/). This piece does a nice job plainly stating the 'assumed knowledge' of the US system from the perspectve of an international student (but useful/relevant to all).
+- [A high-level overview of the application process](https://ssecommunityblog.org/applying-to-a-phd-program-in-the-us-as-an-international-student/). This piece does a nice job plainly stating the 'assumed knowledge' of the US system from the perspective of an international student (but useful/relevant to all).
 - [NCSU's resources](https://grad.ncsu.edu/students/international-students/) for international applicants & graduate students.
 
-Prospective graduate students should [email me](#contact) well in advance of the fall application deadline with:
-
-1. A short paragraph outlining your motivation and preparedness for pursuing graduate study. What do you want to get out of grad school? How has your previous study/experience prepared you?[^1]
-2. A short paragraph describing your specific interests in our group's research and what questions you would want to answer with your research. If considering co-advising, please say so and identify the other lab(s) at NCSU that you are considering.
-3. Your current CV (see advice [here](https://wordvice.com/how-to-write-a-flawless-cv-curriculum-vitae-for-graduate-school/) and [here](https://www.prepscholar.com/gre/blog/how-to-write-a-cv-for-graduate-school/)).
-4. (Optional at thi stage) The names & email addresses for **two** professional references who have agreed to write you [a strong letter of recommendation](https://graduateschoolsite.com/letter-of-recommendation-for-graduate-school/).
-
-Please do not send GRE scores. I do not consider them when evaluating applicants, nor do the primary programs through which I accept students.
-
-We also welcome **visiting graduate students** who want to work on a project with us. Typically this will require you to bring your own funding, which may be available through your home lab/institution or national science funding agency. Please follow the same instructions as above for prospective graduate students and include some information on the specific project you would like to pursue and the funding you have or are seeking. One of your references should be your current adviser.
-
-[^1]: Changing fields? A record ecology-focused study and research experience can help, but isn't necessary. Some great ecologists started off in totally different disciplines. Just be sure to explain why you want to become an ecologist, and think creatively about how the skills you've gained in your discipline can transfer to ecology.
+[^1]: Changing fields? A record of ecology-focused study and research experience can help, but isn't necessary. Many great ecologists started off in completely different disciplines. Just be sure to explain why you want to study ecology, and think creatively about how the skills you've gained in your discipline can transfer or give you unique insight into ecological processes.
 
 ### Postdocs {#postdocs}
 
@@ -92,3 +87,9 @@ We also may have opportunities **during the summer** to engage in field research
 ### Seasonal field technicians {#fieldtechs}
 
 We typically hire 1-2 summer field technicians to help us collect data from ongoing projects in Colorado (plant population responses to climate change) and/or Michigan (microbial food webs in *Sarracenia* pitcher plants). Advertisements for these openings will be posted here, on ECOLOG, and via the [lab Twitter account](https://twitter.com/parameterizeit) in January for fieldwork occurring from June through August. These are great opportunities for nearly- or recently-graduated undergraduate students thinking about graduate school in ecology or work in the environmental sciences. These positions are paid at a competitive hourly rate, plus travel to/from the field station and on-site housing.
+
+
+### Academic visitors {#visitors}
+
+We welcome visiting academics at all stages who want to work on a project with us. Typically this will require you acquire your own funding or work with us on a joint proposal via your home lab/institution, a [Fulbright Commission](https://eca.state.gov/fulbright/about-fulbright/funding-and-administration/fulbright-commissions), or a national science funding agency. Please [email Dr. Petry](#contact) and include a brief description of the project, the ideal start date and duration of your visit, and information about the funding you have or are seeking.
+

@@ -7,7 +7,7 @@ authors: []
 tags: []
 categories: []
 date: 2020-09-21T00:00:04-04:00
-draft: true
+draft: false
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -46,4 +46,8 @@ url_video: ""
 slides: ""
 ---
 
-More information about this position will be posted in December, with an application deadline likely in mid/late January.
+We are hiring two (2) temporary research assistants for the June-August 2021 field season. The successful applicants will assist with the collection of plant demographic data from *Valeriana edulis* populations in western Colorado. The position is paid, full time (40 hr/wk), and includes on-site housing at the Rocky Mountain Biological Lab + reimbursement of travel costs.
+
+Full job ad and application at: https://jobs.ncsu.edu/postings/143561
+
+**Application review begins May 9th and will continue until the positions are filled.**

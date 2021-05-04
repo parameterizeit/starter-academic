@@ -46,6 +46,8 @@ url_video: ""
 slides: ""
 ---
 
-I have an opening for a Masters or Ph.D. student to begin in Fall 2021. Please contact me **as soon as possible** if you are interested in joining the lab using the instructions on the [Join Us](/join#gradstudents) page.
+Prospective Masters or Ph.D. students interested in joining the lab should contact me following the instructions on the [Join Us](/join#gradstudents).
+
+
 
 The application, general information, & deadlines for NCSU grad programs can be found [here](https://grad.ncsu.edu/programs/). Most likely to be relevant are the ** program deadlines for [Plant Biology](https://grad.ncsu.edu/programs/details/?program=PB) (15 January 2021) & [Microbiology](https://grad.ncsu.edu/programs/details/?program=MB) (1 December 2021)**.
