@@ -7,7 +7,7 @@ authors: []
 tags: []
 categories: []
 date: 2020-09-23T00:00:01-04:00
-draft: true
+draft: false
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -46,8 +46,7 @@ url_video: ""
 slides: ""
 ---
 
-Prospective Masters or Ph.D. students interested in joining the lab should contact me following the instructions on the [Join Us](/join#gradstudents).
+Prospective Masters or Ph.D. students interested in joining the lab in Fall 2022 should contact me following the instructions on the [Join Us](/join#gradstudents).
 
 
-
-The application, general information, & deadlines for NCSU grad programs can be found [here](https://grad.ncsu.edu/programs/). Most likely to be relevant are the ** program deadlines for [Plant Biology](https://grad.ncsu.edu/programs/details/?program=PB) (15 January 2021) & [Microbiology](https://grad.ncsu.edu/programs/details/?program=MB) (1 December 2021)**.
+The application, general information, & deadlines for NCSU grad programs can be found [here](https://grad.ncsu.edu/programs/). Most likely to be relevant are the ** program deadlines for [Plant Biology](https://grad.ncsu.edu/programs/details/?program=PB) (15 January 2022) & [Microbiology](https://grad.ncsu.edu/programs/details/?program=MB) (1 December 2022)**.
