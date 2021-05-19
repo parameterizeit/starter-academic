@@ -3,7 +3,8 @@ library(tidyverse)
 library(extrafont)
 loadfonts()
 
-person <- "[first initial][lastname]"
+# person <- "[first initial][lastname]"
+person <- "handerson"
 
 die <- data.frame(face = sample(1:6, 1))
 
