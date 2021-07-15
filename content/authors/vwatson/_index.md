@@ -67,4 +67,4 @@ user_groups:
 - Alumni
 ---
 
-Val spent two summers in the Rocky Mountains collecting demographic data from *Valeriana edulis* and imposing future climate conditions upon them. Field work just isn't the same without her stories & wit. She's now working in environmental education.
+Val spent two summers in the Rocky Mountains collecting demographic data from *Valeriana edulis* and imposing future climate conditions upon them. Field work just isn't the same without her stories & wit. After working in environmental education, Val is back to research working on her Master's degree on the [community ecology of urban streams](http://hamishgreig.weebly.com/val-research.html) with Hamish Greig at the University of Maine.

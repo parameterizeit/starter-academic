@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Hope Anderson
+title: Maggie Zeh
 
 # Username (this should match the folder name)
 authors:
-- handerson
+- mzeh
 
 draft: false
 
@@ -12,7 +12,7 @@ draft: false
 superuser: false
 
 # Role/position
-role: Field tech, RMBL (2021)
+role: Summer undergraduate student, RMBL (2021)
 
 # Organizations/Affiliations
 organizations:
@@ -66,7 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Technicians
+- Undergrads
 ---
 
-Hope is working on her undergraduate degree at Davidson College.
+Maggie is working on her undergraduate degree at the University of Michigan. In summer 2021, she joined the lab through the RMBL Education program. Her project focuses on using climate-coupled demographic models to predict species distributions at landscape scales.

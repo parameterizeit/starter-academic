@@ -6,7 +6,7 @@ title: Eddie Peabody
 authors:
 - epeabody
 
-draft: true
+draft: false
 
 # Is this the primary user of the site?
 superuser: false
@@ -68,3 +68,5 @@ email: ""
 user_groups:
 - Technicians
 ---
+
+Eddie is working on his undergraduate degree at Northwestern University.

@@ -6,7 +6,7 @@ title: Melina Keighron
 authors:
 - mkeighron
 
-draft: true
+draft: false
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,10 +22,9 @@ organizations:
 bio: ""
 
 # interests:
-# - Biodiversity
-# - Species interactions
-# - Modeling ecological systems
-# - Food webs
+- Urban ecology
+- Plant-pollinator interactions
+- Population dynamics
 
 # education:
 #   courses:
