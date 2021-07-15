@@ -22,9 +22,9 @@ organizations:
 bio: ""
 
 # interests:
-- Urban ecology
-- Plant-pollinator interactions
-- Population dynamics
+  - Urban ecology
+  - Plant-pollinator interactions
+  - Population dynamics
 
 # education:
 #   courses:
