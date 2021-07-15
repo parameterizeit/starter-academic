@@ -67,4 +67,4 @@ user_groups:
 - Alumni
 ---
 
-Jack spent three summers in the Rocky Mountains collecting demographic data from *Valeriana edulis* and imposing future climate conditions upon them. He's one of only two team members to have driven, walked, biked, and skied our to our field sites. Jack is now working on a Ph.D. in Biochemistry at Denver University.
+Jack spent three summers in the Rocky Mountains collecting demographic data from *Valeriana edulis* and imposing future climate conditions upon them. He's one of only two team members to have driven, walked, biked, and skied our to our field sites. Jack is now working on [designing & synthesizing new catalysts](https://www.bradyworrell.com/the-team) for his Ph.D. in Chemistry at Denver University.
