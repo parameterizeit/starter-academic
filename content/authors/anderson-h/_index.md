@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Eddie Peabody
+title: Hope Anderson
 
 # Username (this should match the folder name)
 authors:
-- epeabody
+- anderson-h
 
 draft: false
 
@@ -69,4 +69,4 @@ user_groups:
 - Technicians
 ---
 
-Eddie is working on his undergraduate degree at Northwestern University.
+Hope is working on her undergraduate degree at Davidson College.

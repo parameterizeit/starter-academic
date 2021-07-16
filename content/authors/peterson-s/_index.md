@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Lucy Zhang
+title: Sydney Peterson
 
 # Username (this should match the folder name)
 authors:
-- yzhang
+- peterson-s
 
 # Is this the primary user of the site?
 superuser: false
@@ -67,4 +67,4 @@ user_groups:
 - Alumni
 ---
 
-Lucy was a student in the Rocky Mountain Biological Lab's summer undergraduate research program, where she worked (remotely, due to Covid-19) on forecasting *Valeriana edulis* population sex ratios. Since working with us, she finished her Bachelor's degree at Durham University (UK) and has started a Masters program in international environmental policy at Duke Kunshan University (China).
+Sydney was an REU student in the Rocky Mountain Biological Lab's summer undergraduate research program, where she worked on forecasting *Valeriana edulis* population sex ratios. She's currently working on a Bachelor's degree at Colorado State University.

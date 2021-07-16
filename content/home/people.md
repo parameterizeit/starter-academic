@@ -19,7 +19,6 @@ subtitle = "Click a person for their research interests, CV, and contact info"
                  "Undergrads",
                  "Technicians",
                  "Visitors",
-                 "Open positions",
                  "Alumni"]
 
 [design]

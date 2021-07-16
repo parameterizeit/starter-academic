@@ -1,30 +1,30 @@
 ---
 # Display name
-title: Sydney Peterson
+title: Melina Keighron
 
 # Username (this should match the folder name)
 authors:
-- speterson
+- keighron-m
+
+draft: false
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergrad, RMBL (2020)
+role: Ph.D. student
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: 
+- name: Department of Plant & Microbial Biology
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
 
-# interests:
-# - Biodiversity
-# - Species interactions
-# - Modeling ecological systems
-# - Food webs
+interests:
+- Urban ecology
+- Plant-pollinator interactions
+- Population dynamics
 
 # education:
 #   courses:
@@ -42,7 +42,7 @@ bio: ""
 # social:
 # - icon: envelope
 #   icon_pack: fas
-#   link: "mailto:wpetry@princeton.edu"
+#   link: ""
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/oecodynamics
@@ -64,7 +64,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Graduate students
 ---
 
-Sydney was an REU student in the Rocky Mountain Biological Lab's summer undergraduate research program, where she worked on forecasting *Valeriana edulis* population sex ratios. She's currently working on a Bachelor's degree at Colorado State University.
+Melina will join the lab in Fall 2021. She will be co-advised by [Elsa Youngsteadt](http://youngsteadtlab.org/) and plans to pursue questions at the interface of pollination, plant population dynamics, and global change.

@@ -1,21 +1,23 @@
 ---
 # Display name
-title: Val Watson
+title: Maggie Zeh
 
 # Username (this should match the folder name)
 authors:
-- vwatson
+- zeh-m
+
+draft: false
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Field tech, RMBL (2018-2019)
+role: Summer undergraduate student, RMBL (2021)
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: 
+- name: RMBL
+  url: "https://www.rmbl.org"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -64,7 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Undergrads
 ---
 
-Val spent two summers in the Rocky Mountains collecting demographic data from *Valeriana edulis* and imposing future climate conditions upon them. Field work just isn't the same without her stories & wit. After working in environmental education, Val is back to research working on her Master's degree on the [community ecology of urban streams](http://hamishgreig.weebly.com/val-research.html) with Hamish Greig at the University of Maine.
+Maggie is working on her undergraduate degree at the University of Michigan. In summer 2021, she joined the lab through the RMBL Education program. Her project focuses on using climate-coupled demographic models to predict species distributions at landscape scales.

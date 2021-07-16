@@ -1,30 +1,30 @@
 ---
 # Display name
-title: Melina Keighron
+title: Lucy Zhang
 
 # Username (this should match the folder name)
 authors:
-- mkeighron
-
-draft: false
+- zhang-y
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D. student
+role: Undergrad, RMBL (2020)
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Plant & Microbial Biology
+- name: 
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
 
 # interests:
-  - Urban ecology
-  - Plant-pollinator interactions
-  - Population dynamics
+# - Biodiversity
+# - Species interactions
+# - Modeling ecological systems
+# - Food webs
 
 # education:
 #   courses:
@@ -42,7 +42,7 @@ bio: ""
 # social:
 # - icon: envelope
 #   icon_pack: fas
-#   link: ""
+#   link: "mailto:wpetry@princeton.edu"
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/oecodynamics
@@ -64,7 +64,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate students
+- Alumni
 ---
 
-Melina will join the lab in Fall 2021. She will be co-advised by [Elsa Youngsteadt](http://youngsteadtlab.org/) and plans to pursue questions at the interface of pollination, plant population dynamics, and global change.
+Lucy was a student in the Rocky Mountain Biological Lab's summer undergraduate research program, where she worked (remotely, due to Covid-19) on forecasting *Valeriana edulis* population sex ratios. Since working with us, she finished her Bachelor's degree at Durham University (UK) and has started a Masters program in international environmental policy at Duke Kunshan University (China).

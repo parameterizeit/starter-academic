@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Ewa Merz
+title: Jack Snow
 
 # Username (this should match the folder name)
 authors:
-- emerz
+- snow-j
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Masters student, ETH Zurich (2018)
+role: Field tech, RMBL (2018-2020)
 
 # Organizations/Affiliations
 organizations:
-- name: Eawag
-  url: "https://www.eawag.ch/en/department/eco/main-focus/phytoplankton-ecology/"
+- name: RMBL
+  url: "https://www.rmbl.org"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -39,10 +39,10 @@ bio: ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:Ewa.Merz@eawag.ch"
+# social:
+# - icon: envelope
+#   icon_pack: fas
+#   link: "mailto:wpetry@princeton.edu"
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/oecodynamics
@@ -67,4 +67,4 @@ user_groups:
 - Alumni
 ---
 
-Ewa finished her Masters degree in Environmental Science at ETH Zurich. Her thesis focused on how the functional diversity of annual plant seeds shaped granivore foraging preferences and landscape-level species distributions, and it was recognized as one of the top 10% Masters theses. Ewa is now doing her Ph.D. at Eawag and the University of Zurich, where she's working on the community dynamics of phytoplankton in lakes.
+Jack spent three summers in the Rocky Mountains collecting demographic data from *Valeriana edulis* and imposing future climate conditions upon them. He's one of only two team members to have driven, walked, biked, and skied our to our field sites. Jack is now working on [designing & synthesizing new catalysts](https://www.bradyworrell.com/the-team) for his Ph.D. in Chemistry at Denver University.

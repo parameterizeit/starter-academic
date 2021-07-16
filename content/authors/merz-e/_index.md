@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Will Petry
+title: Ewa Merz
 
 # Username (this should match the folder name)
 authors:
-- wpetry
+- merz-e
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Assistant Professor
+role: Masters student, ETH Zurich (2018)
 
 # Organizations/Affiliations
 organizations:
-- name: Dept. Plant & Microbial Biology, North Carolina State University
-  url: "https://cals.ncsu.edu/plant-and-microbial-biology/"
+- name: Eawag
+  url: "https://www.eawag.ch/en/department/eco/main-focus/phytoplankton-ecology/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -42,29 +42,29 @@ bio: ""
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:wpetry@princeton.edu"
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/oecodynamics
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.ch/citations?user=npE9NiAAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/wpetry
+  link: "mailto:Ewa.Merz@eawag.ch"
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/oecodynamics
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.ch/citations?user=npE9NiAAAAAJ
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/wpetry
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/cv_petry.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "wpetry@princeton.edu"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Group leader
+- Alumni
 ---
 
-I am a quantitative field ecologist exploring the dynamics of populations and communities through the lenses of species interactions and intraspecific variation. I develop mathematical models and collect field data to test theoretical predictions of how individual-level traits and interactions scale to generate the structure, function, and diversity we see in natural populations and communities.
+Ewa finished her Masters degree in Environmental Science at ETH Zurich. Her thesis focused on how the functional diversity of annual plant seeds shaped granivore foraging preferences and landscape-level species distributions, and it was recognized as one of the top 10% Masters theses. Ewa is now doing her Ph.D. at Eawag and the University of Zurich, where she's working on the community dynamics of phytoplankton in lakes.

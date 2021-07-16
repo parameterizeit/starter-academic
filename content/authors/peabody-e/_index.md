@@ -1,16 +1,18 @@
 ---
 # Display name
-title: Jack Snow
+title: Eddie Peabody
 
 # Username (this should match the folder name)
 authors:
-- jsnow
+- peabody-e
+
+draft: false
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Field tech, RMBL (2018-2020)
+role: Field tech, RMBL (2021)
 
 # Organizations/Affiliations
 organizations:
@@ -64,7 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Technicians
 ---
 
-Jack spent three summers in the Rocky Mountains collecting demographic data from *Valeriana edulis* and imposing future climate conditions upon them. He's one of only two team members to have driven, walked, biked, and skied our to our field sites. Jack is now working on [designing & synthesizing new catalysts](https://www.bradyworrell.com/the-team) for his Ph.D. in Chemistry at Denver University.
+Eddie is working on his undergraduate degree at Northwestern University.
