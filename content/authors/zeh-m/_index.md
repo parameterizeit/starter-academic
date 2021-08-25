@@ -69,4 +69,4 @@ user_groups:
 - Undergrads
 ---
 
-Maggie is working on her undergraduate degree at the University of Michigan. In summer 2021, she joined the lab through the RMBL Education program. Her project focuses on using climate-coupled demographic models to predict species distributions at landscape scales.
+Maggie is working on her undergraduate degrees in Environment and in and Ecology, Evolution, and Biodiversity at the University of Michigan. In summer 2021, she joined the lab through the RMBL Education program. Her project focuses on using climate-coupled demographic models to predict species distributions at landscape scales.
