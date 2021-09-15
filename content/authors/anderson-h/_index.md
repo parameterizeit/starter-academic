@@ -69,4 +69,4 @@ user_groups:
 - Technicians
 ---
 
-Hope is working on her undergraduate degree at Davidson College.
+Hope is studying biology and math at Davidson College.
