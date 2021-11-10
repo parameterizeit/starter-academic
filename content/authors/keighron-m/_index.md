@@ -21,19 +21,17 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: ""
 
-interests:
-- Urban ecology
-- Plant-pollinator interactions
-- Population dynamics
+# interests:
+# - Plant-pollinator interactions
+# - Population dynamics
+# - Urban ecology
+# - Art-science exchange
 
-# education:
-#   courses:
-#   - course: PhD in Ecology & Evolutionary Biology
-#     institution: University of California, Irvine
-#     year: 2016
-#   - course: BSc in Biology
-#     institution: Truman State University
-#     year: 2010
+education:
+  courses:
+  - course: BSc in Biology
+    institution: Duke University
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -67,4 +65,6 @@ user_groups:
 - Graduate students
 ---
 
-Melina will join the lab in Fall 2021. She will be co-advised by [Elsa Youngsteadt](http://youngsteadtlab.org/) and plans to pursue questions at the interface of pollination, plant population dynamics, and global change.
+Melina comes to the DICE Lab with expertise in population biology and intraspecific interactions. For her dissertation research, she's expanding this demographic lens to the community scale to understand how climate change will reshuffle pollination networks and plant fitness. In tandem with her science, Melina has cultivated a deep interest in art and is exploring how cross-over between these traditionally separated disciplines can help us better understand our world.
+
+Melina joined the lab in Fall 2021 and is co-advised by [Elsa Youngsteadt](http://youngsteadtlab.org/) in the Department of Applied Ecology.

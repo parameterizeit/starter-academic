@@ -66,7 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Technicians
+- Alumni
 ---
 
 Hope is studying biology and math at Davidson College.
