@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Graduate Student"
+title: "Graduate Student (fall 2022 admission)"
 summary: "Open to Masters- or Ph.D.-seeking applicants"
 authors: []
 tags: []
 categories: []
-date: 2020-09-23T00:00:01-04:00
+date: 2021-09-23T00:00:01-04:00
 draft: false
 
 reading_time: false  # Show estimated reading time?

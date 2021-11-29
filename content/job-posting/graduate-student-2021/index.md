@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Graduate Student"
+title: "Graduate Student (fall 2021 admission)"
 summary: "Open to Masters- or Ph.D.-seeking applicants"
 authors: []
 tags: []
