@@ -47,6 +47,7 @@ slides: ""
 ---
 
 [*Apply at the NCSU jobs portal (html)*](https://jobs.ncsu.edu/postings/155056)
+
 [*Download this ad (pdf)*](files/ad_research-specialist_2021.pdf)
 
 The Diversity in Changing Environments Lab seeks a **full-time (40h/week) Research Specialist (Position #: 00109009) to support the research and administrative activities of our group beginning in February 2022**. We study the ecological mechanisms that maintain biodiversity through a combination of lab/field experiments and mathematical modeling. Towards this goal, we are using the microbial food webs associated with the pitcher plant Sarracenia purpurea as a model for understanding how changing environmental conditions affect individual species’ demography and reshuffle species interactions (competition, consumption, and facilitation) to affect the diversity, stability, and function of food webs.
