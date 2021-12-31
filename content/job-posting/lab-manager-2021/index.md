@@ -6,8 +6,8 @@ summary: "Research support in Raleigh (full-time + benefits)"
 authors: []
 tags: []
 categories: []
-date: 2020-12-21T00:00:00-04:00
-draft: true
+date: 2021-12-23T00:00:01-04:00
+draft: false
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -45,58 +45,52 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-We seek a **full-time, benefits-eligible manager/technician** to provide lab-based research support for our group's projects on the ecological processes that maintain species diversity in microbial food webs. The ideal start date is **May-June 2021**. The initial appointment will be for 1 year, though funding is available for multi-year extensions.
 
-This position is ideally suited for recent Bachelors or Masters students. In addition to the core lab support duties, there will be ample support for professional growth through advanced training, intellectual engagement with the group, and co-authorship of peer-reviewed papers. We are a lab committed to a building a diverse, equitable, & inclusive science. As such, we especially invite applications from individuals who identify with marginalized and underrepresented groups.
+[*Apply at the NCSU jobs portal (html)*](https://jobs.ncsu.edu/postings/155056)
+[*Download this ad (pdf)*](files/ad_research-specialist_2021.pdf)
 
-### Qualifications
-#### Minimum:
-- Bachelor's degree in biology or a related field **with lab-based coursework or research experience encompassing**:
-  + aseptic technique for culturing microbes
-  + basic light microscopy
-  + maintenance of a lab notebook
-- excellent organization & verbal/written communication skills
-- ability to work independently, prioritizing day-to-day tasks to meet defined research objectives
-- basic proficiency in data management (e.g., entry, error checking, meta-data documentation)
-- valid drivers license & ability to drive state-owned vehicles to complete work tasks
-#### Preferred:
-- Masters degree or relevant work experience in microbiology or a related field
-- prior lab work experience with protists and/or bacteria
-- basic proficiency with version control systems (e.g., git/GitHub)
-- laboratory experience with DNA extraction & preparation for sequencing
-- curiosity about population-, community-, and ecosystem-level processes
+The Diversity in Changing Environments Lab seeks a **full-time (40h/week) Research Specialist (Position #: 00109009) to support the research and administrative activities of our group beginning in February 2022**. We study the ecological mechanisms that maintain biodiversity through a combination of lab/field experiments and mathematical modeling. Towards this goal, we are using the microbial food webs associated with the pitcher plant Sarracenia purpurea as a model for understanding how changing environmental conditions affect individual species’ demography and reshuffle species interactions (competition, consumption, and facilitation) to affect the diversity, stability, and function of food webs.
 
-### Essential job duties & technical knowledge:
-This position's primary duties are to provide lab-based research support for our group's projects that focus on the mechanisms that maintain species diversity in microbial communities.
-#### A typical week may include:
-- Meeting with supervisor to establish research goals/priorities & to review progress during the previous week
-- Tasks to maintain lab organization, upkeep, & safety
-- Maintenance of protist & bacterial cultures
-- Inventory management (including placing orders through the university purchasing system)
-- Experiment set-up (including optimization of protocols)
-- Data collection & entry
-- Schedule management for shared facilities & equipment
-- Assigning tasks to undergraduate students working in the lab
-- Reading papers related to our group's research & participation in the group lab meeting
+We are looking for a highly motivated & organized individual to support our group’s research projects. The successful candidate must be able to work independently to coordinate progress among a diverse range of tasks towards assigned goals, and to maintain effective collaboration with other team members. **Application review will begin on 13 January 2022** and continue until the position is filled.
 
-#### Occasional duties may include:
-- Assistance with setting up & troubleshooting equipment, software, & work-flows
-- Training new users on lab equipment, experimental protocols, & data entry
-- Basic upkeep of the lab vehicle (e.g., dropoff/pickup from on-campus vehicle maintenance, refueling)
-- Assistance with plant or microbial experiments in the Phytotron or at local field sites
+The primary responsibility of the Research Specialist will be to support our group’s research projects on microbial communities. The successful candidate will work independently to coordinate progress among a diverse range of tasks towards assigned goals/experiments, assist in maintaining the lab’s day-to-day operation, and maintain effective collaboration with other team members.
 
-Although this position is largely lab-based on NCSU's main campus, there may be opportunities for work travel to assist with field work  (including Michigan, Colorado, or California). Because these trips are outside the scope of this position's main duties, they will only be assigned upon mutual agreement.
+**At present, this position is time-limited for two (2) years, with possible renewal based on funding.**
 
-The successful applicant will be expected to complete required safety training provided through NCSU-EHS upon employment and maintain safety compliance throughout their time in the lab.
+## Occasional duties:
+Although this position is primarily lab-based, occasional assistance with greenhouse & NC-based field work may be required (e.g., setting up experiments, collecting data or samples). The Research Specialist will also occasionally support our group’s education and outreach efforts. We welcome individuals who want to engage in additional scholarly activities of our lab group, including participation in lab meetings, contribution to the design of experiments, or assistance with data analysis and manuscript preparation. With supervisor’s agreement, primary job duties and timelines will be adjusted to accommodate participation in scholarly activities.
 
-### Compensation
-This is a full-time (40 h/wk) position, paid at a competitive hourly rate commensurate with experience. Compensation also includes the standard benefits package offered to NCSU employees, which **includes employer contributions to health insurance.** Additional benefit information is available through NCSU's Human Resources and is subject to policies at the time of employment. Currently, these include paid state holidays, vacation+sick leave, and discounted access to campus recreation facilities, events, and childcare.
+## Required training & experience:
+-	Bachelor’s degree in biology, ecology, microbiology, or a related field (preferably including a lab-based course in microbiology)
+-	At least 1 year of related research experience (an equivalent combination of transferable training & skills may be substituted)
 
-As part of our lab's commitment to diversity, equity, and inclusion, we're open to exploring mutually-agreeable work schedules that deviate from the rigid "9-to-5" model.
+## Required skills:
+-	General lab microbiology skills (sterile technique, isolations, inoculations, media preparation, culture transfers, safety)
+-	General microscopy use (stereo & compound)
+-	Understanding of foundational ecological processes & terminology
+-	(preferred) Familiarity with data management best practices for reproducible research
+-	(preferred) ability to write/adapt code (e.g., in R, Python, MatLab, Julia)
+-	(preferred) familiarity with version control workflows (e.g., Git, GitHub)
+-	Valid NC Driver’s License or the ability to obtain one within 60 days of hire.
 
-### About the Lab, Department, and Raleigh
-We are a newly establishing lab. Over the course of this position, we'll be laying the foundation for an entire research program. This means lots of opportunities to work closely with the group leader and do the creative on-the-fly work to solve problems. This type of work is challenging, but offers experience and rewards that are harder to come by in more established labs.
+## Compensation:
+The starting salary range is expected to be $42,000-45,000, depending on experience. Additionally, the Research Specialist will be eligible for  a generous benefits package that includes the State Health Plan, time off (University holidays, paid vacation, sick leave), a retirement plan, and several other benefits (see https://jobs.hr.ncsu.edu/benefits-and-perks/).
 
-The Department of Plant & Microbial Biology is one of several biology-related departments on campus. The faculty work on a wide range of exciting questions in an equally wide range of study systems. Its a truly engaging, interactive, and exciting place to do science.
+## Job Location: Raleigh, NC
 
-Raleigh joins the nearby cities Durham and Chapel Hill to form the 'Research Triangle,' an internationally-known hub for the biosciences. These cities collectively punch above their weight in terms of cosmopolitan cultural opportunities (think great food, music scene, & events, much of it walkable from campus). But unlike a single city of their collective size, it's much easier to escape to nature. Both the Smokey Mountains and Atlantic Ocean beaches are within range for a weekend trip. For journeys farther afield, rail the Triangle sits in the heart of Amtrak's East Coast lines and has a surprisingly well-connected airport.
+## TO APPLY:
+ALL APPLICATIONS MUST BE MADE DIRECTLY THROUGH THE NC STATE UNIVERSITY JOB SITE. HERE IS A LINK TO THE OFFICIAL JOB POSTING AND APPLICATION: https://jobs.ncsu.edu/postings/155056.
+
+All applications must include:
+-	Cover letter (1-2 pages) explaining your interest and qualification for the position
+-	A curriculum vitae (CV)
+-	Names & email addresses of three references who can comment on your qualifications and related experience (no letters, just contact information)
+-	(optionally) Copies of any additional certifications relevant to this position
+
+We strive to build and actively maintain a community within the DICE Lab, our University, and our discipline where everyone is treated with dignity, included, and respected. We especially welcome applicants who identify with groups that are underrepresented in science because of historic and ongoing exclusionary practices.
+
+**Please direct any questions to Dr. Will Petry (wpetry@ncsu.edu) and include “Research Specialist” in the subject line.**
+
+NC State University is an equal opportunity and affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, gender identity, age, sexual orientation, genetic information, status as an individual with a disability, or status as a protected veteran.
+
+N.C. State is diverse because it is a community of individuals from varied backgrounds and demographic categories; it encourages, accepts, and values a diversity of people and ideas; it seeks to promote an environment where equity, respect and understanding represent the norm in the campus climate; and it seeks to prepare entrepreneurs who are effective citizens of a global community. As such, you are expected to contribute to an environment that is welcoming of all groups.
