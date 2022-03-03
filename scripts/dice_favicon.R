@@ -8,10 +8,10 @@ dat <- combn(1:6, 3) %>%
   t() %>%
   apply(., 1, sample) %>%
   t() %>%
-  as_tibble() %>%
+  as_tibble(.name_repair = "unique") %>%
   sample_n(3, seed = 8230) %>%
   rownames_to_column(var = "roll") %>%
-  gather("die", "face", starts_with("V")) %>%
+  gather("die", "face", starts_with("..")) %>%
   mutate(roll = as.integer(roll),
          die = as.integer(factor(die)))
 
