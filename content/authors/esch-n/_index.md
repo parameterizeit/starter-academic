@@ -69,4 +69,4 @@ user_groups:
 - Staff/technicians
 ---
 
-
+I have always known I wanted to have a career in science. From collecting "tree stars" in the woods as a kid (Land Before Time anyone?), to majoring in Biology and Journalism in my undergrad career at UNC Chapel Hill, I have always taken steps to make that happen. Along the way I discovered a love for writing, photography, and communication as well as a desire to help close the gap between science and minority communities. Though I use my spare time to pursue more individualized hobbies like bodybuilding and cooking, I hope my career will allow me to serve the public as an apt communicator and a well-informed scientist.
