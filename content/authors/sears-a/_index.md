@@ -12,11 +12,13 @@ draft: false
 superuser: false
 
 # Role/position
-role: Ph.D. student
+role: Field tech, RMBL (2022)
 
 # Organizations/Affiliations
 organizations:
 - name: Department of Plant & Microbial Biology
+- name: RMBL
+  url: "https://www.rmbl.org"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -62,7 +64,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate students
+- Staff/technicians
 ---
 
 

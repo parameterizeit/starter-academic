@@ -15,9 +15,9 @@ superuser: false
 role: Field tech, RMBL (2022)
 
 # Organizations/Affiliations
-# organizations:
-# - name: RMBL
-#   url: "https://www.rmbl.org"
+organizations:
+- name: RMBL
+  url: "https://www.rmbl.org"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
