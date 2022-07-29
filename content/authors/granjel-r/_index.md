@@ -12,7 +12,7 @@ draft: false
 superuser: false
 
 # Role/position
-role: Visitors
+role: Visiting Fulbright Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -62,7 +62,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate students
+- Visitors
 ---
 
-Rodrigo is a Fulbright fellow at DICE Lab and PhD candidate at the University of Seville & Messy Lab (Spain). His thesis focuses on plants in terrestrial ecosystems (grasslands) to understand how the interaction between abiotic (e.g., nutrient availability) and biotic (e.g., multiple species interactions) factors determine the ability of plants to coexist. At DICE Lab he is attempting to identify the simplest species interactions that foster the stability and functioning of ecological systems using a complex network of bacteria-protists associated to the carnivorous plant *Sarracenia purpurea* (pitcher plant). Beyond science, Rodrigo is a photography aficionado, racquet (or any) sports fan, and amateur scuba diver.
+Rodrigo is a Fulbright fellow at DICE Lab and PhD candidate at the University of Seville & [Messy Lab](https://www.oscargodoy.com/) (Spain). His thesis focuses on plants in terrestrial ecosystems (grasslands) to understand how the interaction between abiotic (e.g., nutrient availability) and biotic (e.g., multiple species interactions) factors determine the ability of plants to coexist. At DICE Lab he is attempting to identify the simplest species interactions that foster the stability and functioning of ecological systems using a complex network of bacteria-protists associated to the carnivorous plant *Sarracenia purpurea* (pitcher plant). Beyond science, Rodrigo is a photography aficionado, racquet (or any) sports fan, and amateur scuba diver.
