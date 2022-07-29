@@ -37,7 +37,7 @@ publication_types:
 - 6
 abstract: 'Several long-term field studies are running worldwide on many taxa across the Tree of Life. These longitudinal studies involve several visits to the study population with repeated observations/measurements. Demographic data can be collected at the population level (e.g. time series of population counts) or at the individual level (e.g. monitoring of marked and/or georeferenced individuals throughout their life). These data are then used to estimate demographic parameters such as annual population abundances, survival, growth, and reproductive rates. This chapter introduces the reader to monitoring methods (including recent technologies) that can be implemented in the field to collect specific demographic data on mobile species (e.g. birds, mammals) at both the population and individual levels, while dealing with imperfect detection. It also presents the procedures and the type of demographic data that can be collected on sessile species (e.g. corals, plants) at both levels. Finally, the chapter concludes with new aspects, current biases, and arising challenges for future long-term field studies.'
 publication: '*Demographic Methods across the Tree of Life*'
-url_pdf: ''
+url_pdf: gamelon-2021-bookchapter.pdf
 doi: 10.1093/oso/9780198838609.003.0005
 url_dataset: ''
 ---
