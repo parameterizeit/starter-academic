@@ -4,7 +4,7 @@ library(extrafont)
 loadfonts()
 
 # person <- "[lastname]-[first initial]"
-person <- "sears-a"
+person <- "wilson-e"
 
 die <- data.frame(face = sample(1:6, 1))
 
